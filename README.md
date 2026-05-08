@@ -1,3 +1,20 @@
+# Hi 👋, I'm Sidharth Mohan
+
+### 🚀 Java Backend Developer | Spring Boot Enthusiast
+
+Passionate about building scalable backend applications and secure REST APIs using Java and Spring Boot.  
+Focused on backend development, authentication systems, databases, and distributed systems.
+
+---
+
+## 🌱 Currently Learning
+- Microservices Architecture
+- System Design
+- Distributed Systems
+- Advanced Spring Security
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages
@@ -24,3 +41,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sidharth-mohan00)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansidharth00@gmail.com)
