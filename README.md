@@ -7,14 +7,6 @@ Focused on backend development, authentication systems, databases, and distribut
 
 ---
 
-## 🌱 Currently Learning
-- Microservices Architecture
-- System Design
-- Distributed Systems
-- Advanced Spring Security
-
----
-
 ## 🚀 Tech Stack
 
 ### 💻 Languages
