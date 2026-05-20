@@ -40,5 +40,3 @@ Focused on backend development, authentication systems, databases, and distribut
 <a href="https://www.linkedin.com/in/sidharth-mohan00/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansidharth00@gmail.com)
