@@ -94,7 +94,6 @@ I enjoy developing end-to-end applications using Spring Boot, React, databases, 
 - System Design Fundamentals
 - Microservices Architecture
 - CI/CD Pipelines
-- Advanced React Patterns
 
 ---
 
